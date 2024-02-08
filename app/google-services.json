@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890930650464",
+    "project_id": "vinetasprueba",
+    "storage_bucket": "vinetasprueba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890930650464:android:4ac026efcdc5b3ea625205",
+        "android_client_info": {
+          "package_name": "com.example.criptos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-zFjqhzmTP0zBKCAvWujsoxDIFHKqi0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
